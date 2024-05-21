@@ -1,0 +1,6 @@
+hostname         = "server"
+plan             = "m3.small.x86"
+metro            = "fr"
+operating_system = "ubuntu_22_04"
+billing_cycle    = "hourly"
+project_id       = ""
